@@ -1,0 +1,102 @@
+    [
+    {
+        "question": "hello",
+        "answer": "Hello! Welcome to MegaSkills Academy. How can I assist you today?"
+    },
+    {
+        "question": "hi",
+         "answer": "Hello! Welcome to MegaSkills Academy. How can I assist you today?"
+    },
+    {
+        "question": "what courses do you offer",
+        "answer": "We offer a variety of courses, including Website designing, video editing, YouTube automation, Facebook and Instagram ads, AI tool usage, and graphic design and lots more"
+    },
+    {
+        "question": "do you teach video editing",
+        "answer": "Yes, we have comprehensive courses on video editing to help you master popular editing tools and techniques."
+    },
+    {
+        "question": "do you teach youtube automation",
+        "answer": "Absolutely! We provide courses on YouTube automation to help you optimize your channel and content."
+    },
+    {
+        "question": "do you offer facebook ads training",
+        "answer": "Yes, we offer training on creating and managing effective Facebook ads for your business or brand."
+    },
+    {
+        "question": "do you offer instagram ads training",
+        "answer": "Yes, we have courses on running successful Instagram ad campaigns."
+    },
+    {
+        "question": "do you teach AI tools",
+        "answer": "Yes, we offer courses that cover various AI tools and how to leverage them effectively."
+    },
+    {
+        "question": "do you offer graphic design courses",
+        "answer": "Yes, we have a range of courses on graphic design, covering everything from basic to advanced techniques."
+    },
+    {
+        "question": "how do I enroll in a course",
+        "answer": "You can enroll by visiting our website and selecting the course you’re interested in. For more assistance, please reach out to our customer support."
+    },
+    {
+        "question": "what is your website",
+        "answer": "Our website is www.megaskillsacademy.com. We are dedicated to providing high-quality and effective courses for businesses and individuals."
+    },
+    {
+        "question": "what is your phone number",
+        "answer": "Our phone number is 123-456-7890. We are here to help you with any questions you may have."
+    },
+    {
+        "question": "what is your email address",
+        "answer": "Our email address is  info@megaskillsacademy.com. We are here to help you with any questions you may have."
+    },{
+        "question": "what is your address",
+        "answer": "Our address is 123 Main St, City, State, 12345"
+    },{
+        "question": "what is your opening hours",
+        "answer": "Our opening hours are Monday to Friday, 9:00 AM to 5:00 PM."
+    },
+    {
+        "question": "what is your social media accounts",
+        "answer": "Our social media accounts are: Facebook: https://www.facebook.com/MegaSkillsAcademy Instagram: https://www.instagram.com/megaskillsacademy YouTube: https://www.youtube.com/channel/UCq98K686_j9W9j8o9e5568g"
+    },{
+        "question": "Tell me more about mega skills",
+        "answer": "MEGA SKILLS ACADEMY (MSA) plays a vital role in closing the digital literacy gap through comprehensive training programmes to equip individuals with high-income skills"
+    },
+    
+    {
+        "question": "how can I contact customer care",
+        "answer": "For detailed inquiries, please reach out to our customer care via WhatsApp using this link: https://wa.me/1234567890"
+    },
+    
+    {
+        "question": "do you offer certificates",
+        "answer": "Yes, we provide certificates upon completion of our courses."
+    },
+    {
+        "question": "what payment methods do you accept",
+        "answer": "We accept major credit cards, PayPal, and other secure payment methods."
+    },
+    {
+        "question": "what if I need more information",
+        "answer": "If you need more information or have further questions, please reach out to our customer care via WhatsApp: [Contact Us on WhatsApp] https://wa.me/1234567890"
+    },
+    {
+        "question": "Waoh thanks so much for your assistance",
+        "answer": "You're welcome! If you have any more questions or need further assistance, please don't hesitate to reach out to our customer care via WhatsApp: [Contact Us on WhatsApp] https://wa.me/1234567890"
+       
+    },
+    {
+        "question": "who is the CEO",
+        "answer": {
+            "text": "John Doe is the CEO of MegaSkills Academy. He has a rich background in tech and business management. Follow him on social media: Twitter | LinkedIn.",
+            "image": "../../frontend/praize.jpg", 
+            "social": {
+                "Facebook": "https://www.facebook.com/praise.muri",
+                "linkedin": "https://www.facebook.com/praise.muri"
+            }
+        }
+    }
+    
+]
