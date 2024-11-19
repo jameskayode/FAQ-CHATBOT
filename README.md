@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your chatbot project. You can customize it further to suit your specific details:
-
----
 
 # MegaSkills Academy Chatbot
 
